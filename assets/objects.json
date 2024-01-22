@@ -1,0 +1,594 @@
+{
+  "objects": [
+    {
+      "name": "Conical flask",
+      "description": "A conical flask, also known as an Erlenmeyer flask, is a type of laboratory flask featuring a flat bottom, a conical body, and a cylindrical neck. It is commonly used for mixing, heating, and storing liquids in chemistry laboratories.",
+      "image": "https://heritagechemical.com/wp-content/uploads/2020/07/11191420661620487296.jpg",
+      "properties": {
+        "Material": "600°C",
+        "Capacity": "Glass",
+        "Safety": "7",
+        "Common Uses": [
+          "Chemical reactions",
+          "Titration",
+          "Culturing microorganisms",
+          "Preparing and storing solutions"
+        ],
+        "Features": [
+          "Narrow neck to prevent splashes",
+          "Flat bottom for stability",
+          "Graduated markings for accurate measurement"
+        ],
+        "Do": [
+          "Handle with Care",
+          "Inspect for Damage",
+          "Use Appropriate Stopper",
+          "Securely Attach Apparatus",
+          "Clean Properly",
+          "Use Heat Cautiously",
+          "Use Protective Gear"
+        ],
+        "Avoid": [
+          "Avoid Rapid Temperature Changes",
+          "Don't Overfill",
+          "Avoid Rough Handling",
+          "Avoid Using Cracked Flasks",
+          "Don't Heat Directly Over Flames"
+        ],
+        "Cleaning": [
+          "Immediate Rinse",
+          "Use Cleaning Agents",
+          "Utilize soft-bristled brushes or cleaning tools",
+          "Soaking",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Another flask",
+            "image": "https://www.curiousscience.com/slir/w800-h800/images/stock/2FAD83DA-0B0B-4EED-A92C-01950A509FEC.jpeg"
+          },
+          {
+            "name": "Different Flask",
+            "image": "https://cdn.images.fecom-media.com/A62248_B8A62248_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Beaker",
+      "description": "A beaker is a cylindrical glass or plastic container with a flat bottom and a pouring lip, commonly used in laboratories for mixing, heating, and storing liquids during experiments and chemical reactions.",
+      "image": "https://th.bing.com/th/id/R.374b0634262a69fd7d3fcbb74a87de20?rik=%2fmy8%2fEfiJBIjRQ&riu=http%3a%2f%2fwww.carolina.com%2fimages%2fproduct%2flarge%2f721249_app.jpg&ehk=liOVw6H7iVPC3g9CebKsLg9Lbc%2fXGTjRkNKa40frRwY%3d&risl=&pid=ImgRaw&r=0",
+      "properties": {
+        "Material": "600°C ",
+        "Capacity": "Glass",
+        "Safety": "6",
+        "Common Uses": [
+          "Mixing and Stirring",
+          "Holding and Containing Liquids",
+          "Heating Substances",
+          "Measuring Volumes",
+          "Performing Reactions",
+          "Evaporation and Heating Over a Flame",
+          "Observation and Sample Storage",
+          "Transferring Solutions",
+          "Dilution and Solution Preparations"
+        ],
+        "Features": [
+          "cylindrical shape with a flat bottom allows easy stirring and mixing",
+          "pouring lip helps to facilitate controlled pouring of liquids without spilling",
+          "Graduated markings for accurate measurement",
+          "Wide Mouth",
+          "Transparent Material",
+          "Chemical Resistance"
+        ],
+        "Do": [
+          "Handle with Care",
+          "Inspect for Damage",
+          "Use Properly Sized Beaker",
+          "Use Stirring Rods for mixing",
+          "Clean Properly",
+          "Use Graduations for Approximation",
+          "Use Heat Cautiously",
+          "Use Protective Gear"
+        ],
+        "Avoid": [
+          "Avoid Rapid Temperature Changes",
+          "Don't Overfill",
+          "Avoid Rough Handling",
+          "Avoid Using Cracked Flasks",
+          "Don't Use for Strongly Reactive Substances",
+          "Don't Use as Precision Measurement Tool",
+          "Avoid Rough Stirring",
+          "Don't Heat Directly Over Flames"
+        ],
+        "Cleaning": [
+          "Immediate Rinse",
+          "Use Cleaning Agents",
+          "Utilize soft-bristled brushes or cleaning tools",
+          "Soaking",
+          "Air Dry",
+          "Avoid Extreme Heat",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Graduated Cylider",
+            "image": "https://th.bing.com/th/id/OIP.SiytgRSaQBa4Oifump_zdAHaHa?rs=1&pid=ImgDetMain"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buchner funnel",
+      "description": "A Büchner funnel is a filtering apparatus comprising a perforated plate (or a fritted glass disc) atop a conical flask, used in laboratories for vacuum-assisted filtration to separate solids from liquids.",
+      "image": "https://th.bing.com/th/id/OIP.79Ey7-7FvRt2568nu8mvHwHaHa?rs=1&pid=ImgDetMain",
+      "properties": {
+        "Material": "1000°C",
+        "Capacity": "Porcelain",
+        "Safety": "5",
+        "Common Uses": [
+          "Separation of Solids from Liquids",
+          "Filtering Precipitates",
+          "Particulate Removal",
+          "Gravity Filtration with Aid of Vacuum",
+          "Sample Preparation",
+          "Laboratory Experiments and Research",
+          "Collection of Filtrate",
+          "Purification Processes"
+        ],
+        "Features": [
+          "Conical Shape facilitates efficient filtration",
+          "Perforated Plate or Fritted Glass Disc",
+          "Connection for Vacuum",
+          "Suction Point",
+          "Wide Rim",
+          "Compatibility with Filter Paper"
+        ],
+        "Do": [
+          "Use Correct Filter Paper",
+          "Pre-wet Filter Paper",
+          "Ensure it is securely clamped or placed atop the receiving flask",
+          "Apply Gradual Vacuum",
+          "Monitor Filtration Progress",
+          "Dispose of Filtered Residues Properly"
+        ],
+        "Avoid": [
+          "Avoid Dry Filtration",
+          "Don't Apply Excessive Vacuum",
+          "Avoid Overloading",
+          "Avoid Using Cracked Flasks",
+          "Don't Disturb Setup During Filtration",
+          "Avoid Using Incompatible Chemicals"
+        ],
+        "Cleaning": [
+          "Immediate Rinse",
+          "Use Cleaning Agents",
+          "Utilize soft-bristled brushes or cleaning tools",
+          "Soaking",
+          "Air Dry",
+          "Avoid Extreme Heat",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Hirsch Funnel",
+            "image": "https://img2.exportersindia.com/product_images/bc-full/2021/3/2776304/hirsch-funnel-1615550324-5753467.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crucible",
+      "description": "A crucible is a heat-resistant container typically made of porcelain, ceramic, or other refractory materials used in laboratories for heating substances to high temperatures, melting, or chemical reactions.",
+      "image": "https://th.bing.com/th/id/OIP.JlTt4GXy6tqz8t-RYbC9UwHaGX?rs=1&pid=ImgDetMain",
+      "properties": {
+        "Material": "1000°C",
+        "Capacity": "Porcelain",
+        "Safety": "7",
+        "Common Uses": [
+          "High-Temperature Heating",
+          "Melting and Fusion",
+          "Chemical Reactions",
+          "Ashing",
+          "Holding and Containment",
+          "Evaporation and Condensation",
+          "Crucible Furnace Applications",
+          "Growth of Crystals"
+        ],
+        "Features": [
+          "designed to withstand high temperatures without deforming, melting, or cracking",
+          "Chemical Inertness",
+          "Designed to endure repeated heating cycles",
+          "Available in different sizes and shapes",
+          "Resistance to Thermal Shock",
+          "Smooth and Non-Porous Surface"
+        ],
+        "Do": [
+          "Preheat Gradually",
+          "Use Proper Handling Equipment",
+          "Secure Placemen",
+          "Follow Temperature Limits",
+          "Use Lid or Cover Appropriately",
+          "Dispose of Waste Properly",
+          "Allow for Cooling"
+        ],
+        "Avoid": [
+          "Avoid Rapid Temperature Changes",
+          "Don't Overfill",
+          "Avoid Thermal Stress",
+          "Don't Handle Hot Crucibles Barehanded",
+          "Avoid Sudden Movements"
+        ],
+        "Cleaning": [
+          "Allow the crucible to cool to room temperature after use before starting the cleaning process",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Evaporating Dish",
+            "image": "https://cdn.teachersupplysource.com/images/D/XZ7-525-4.jpg"
+          },
+          {
+            "name": "Petri Dish",
+            "image": "https://progress.com.sg/wp-content/uploads/2015/07/Petri-Dish.jpg"
+          },
+          {
+            "name": "Combustion Boat",
+            "image": "https://cdnimg.webstaurantstore.com/images/products/medium/28713/943633.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cuvette",
+      "description": "A cuvette is a small, transparent vessel, usually made of glass or plastic, designed to hold samples for spectroscopic analysis in scientific experiments, particularly in the field of spectrophotometry.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BdLVh7fUL.jpg",
+      "properties": {
+        "Material": "-50°C to 550°C",
+        "Capacity": "Glass",
+        "Safety": "3",
+        "Common Uses": [
+          "Spectrophotometric Analysis",
+          "DNA/RNA Quantification",
+          "Protein Assays",
+          "Enzyme Kinetics",
+          "Chemical Kinetics Studies",
+          "Fluorescence Spectroscopy",
+          "Cell Culture Applications",
+          "Chemical Analysis"
+        ],
+        "Features": [
+          "Transparent Material",
+          "Standardized Dimensions",
+          "Path Length Variability",
+          "Optical Clarity",
+          "UV-Visible and Fluorescence Compatibility",
+          "Temperature Stability"
+        ],
+        "Do": [
+          "Handle with Care",
+          "Clean Before Use",
+          "Dry Properly",
+          "Use Correct Path Length",
+          "Securely Seal or Cap",
+          "Wipe External Surfaces"
+        ],
+        "Avoid": [
+          "Avoid Touching Optical Surfaces",
+          "Don't Use Damaged Cuvettes",
+          "Minimize Exposure to Harsh Chemicals",
+          "Don't Mix Cuvettes",
+          "Don't Overfill Cuvettes",
+          "Avoid Forceful Cleaning"
+        ],
+        "Cleaning": [
+          "Immediate Cleaning",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Vials",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61ChEE%2Bf4mL._SL1500_.jpg"
+          },
+          {
+            "name": "Capillary Tubes",
+            "image": "https://assets.fishersci.com/TFS-Assets/CCG/Dynalab-Corporation/product-images/DMP100-10.jpg-650.jpg"
+          },
+          {
+            "name": "Culture Tubes",
+            "image": "https://5.imimg.com/data5/YD/UL/MY-932240/culture-tube-media-500x500.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mortar and pestle",
+      "description": "A mortar and pestle in a chemistry lab is a manual grinding tool comprising a bowl-like mortar and a rod-shaped pestle, used to crush, grind, or mix solid substances into finer particles for various laboratory applications such as sample preparation and compound synthesis.",
+      "image": "https://th.bing.com/th/id/R.1c1ee63e5f3d19bbbffc43f84990544b?rik=AQY0tz81vcTT%2fw&riu=http%3a%2f%2fwww.progress.com.sg%2fwp-content%2fuploads%2f2015%2f07%2fMortar-Pestle.jpg&ehk=%2bM%2bQ5a6UX494kotdPTw7UZZRBX808p5SHSXb%2froZcN0%3d&risl=&pid=ImgRaw&r=0",
+      "properties": {
+        "Material": "300°C",
+        "Capacity": "Ceramic",
+        "Safety": "7",
+        "Common Uses": [
+          "Grinding and Pulverizing",
+          "Sample Preparation",
+          "Crushing and Mixing",
+          "Chemical Synthesis",
+          "Extraction",
+          "Solid-State Reactions",
+          "Homogenization",
+          "Preparation of Suspensions or Emulsions"
+        ],
+        "Features": [
+          "Hard, Non-Porous Surface",
+          "Resistance to Corrosion",
+          "Inner Surface Texture"
+        ],
+        "Do": [
+          "Clean it thoroughly before use to remove residues",
+          "Use Gentle Pressure",
+          "Grind in Batches",
+          "Clean Immediately"
+        ],
+        "Avoid": [
+          "Avoid Excessive Force",
+          "Don't Overfill",
+          "Avoid Cross-Contamination",
+          "Avoid Abrasive Cleaners",
+          "Don't Overheat"
+        ],
+        "Cleaning": [
+          "Immediate Cleaning",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Crucibles",
+            "image": "https://th.bing.com/th/id/OIP.JlTt4GXy6tqz8t-RYbC9UwHaGX?rs=1&pid=ImgDetMain"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reagent bottle",
+      "description": "A reagent bottle in a chemistry lab is a container with a narrow neck and a stopper or cap, designed for the safe storage and dispensing of chemical reagents during laboratory experiments and analyses.",
+      "image": "https://www.sigmaaldrich.com/content/dam/sigma-aldrich/product4/161/slw1521-04d.tif/_jcr_content/renditions/slw1521-04d-large.jpg",
+      "properties": {
+        "Material": "-70°C to 500°C",
+        "Capacity": "Glass",
+        "Safety": "7",
+        "Common Uses": [
+          "Chemical Storage",
+          "Solvent Storage",
+          "Buffer Solutions",
+          "Dispensing",
+          "Transportation"
+        ],
+        "Features": [
+          "Designed to store, prevent reactions and degradation of the container.",
+          "Narrow neck helps to control the dispensing of liquids and minimize evaporation",
+          "Airtight Seal to prevent atmospheric reaction.",
+          "Resistant to Corrosion."
+        ],
+        "Do": [
+          "Label reagent bottles clearly with the name of the reagent, concentration",
+          "ensure that the reagent bottle is tightly sealed after each use",
+          "Keep away from away from direct sunlight, heat sources, and incompatible chemicals",
+          "Use the Correct Bottle",
+          "Check the compatibility of the reagent with the material of the bottle"
+        ],
+        "Avoid": [
+          "Don't store incompatible reagents in the same bottle",
+          "Don't Overfill",
+          "Don't force a closure mechanism if it doesn't fit properly",
+          "Don't ignore graduation marks",
+          "Don't leave the lid of a reagent bottle open",
+          "Don't store reagent bottles without proper labeling"
+        ],
+        "Cleaning": [
+          "Immediate Cleaning",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Wash bottle",
+            "image": "https://m.media-amazon.com/images/I/51kVm7rSm9S.jpg"
+          },
+          {
+            "name": "Dropping bottle",
+            "image": "https://www.appletonwoods.co.uk/wp-content/uploads/2018/02/dropping-bottle-1.png"
+          },
+          {
+            "name": "Winchester Bottle",
+            "image": "https://assets.fishersci.com/TFS-Assets/CCG/product-images/12397118_Azpack-9490.jpg-650.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Suction flask",
+      "description": "A suction flask, also known as a filter flask, is a laboratory glassware with a flat bottom, a sidearm for connection to a vacuum source, and a vertical neck, commonly used in filtration setups to apply vacuum pressure for efficient filtration of liquids.",
+      "image": "https://3.imimg.com/data3/LF/TA/MY-11052698/suction-flask-1000x1000.jpg",
+      "properties": {
+        "Material": "-70°C to 500°C",
+        "Capacity": "Glass",
+        "Safety": "4",
+        "Common Uses": [
+          "Filtration",
+          "Vacuum Filtration",
+          "Isolation of Precipitates",
+          "Separation of Solids",
+          "Protein Purification"
+        ],
+        "Features": [
+          "Equipped with a sidearm for connecting to a vacuum source.",
+          " vertical neck that allows for easy attachment of rubber stoppers",
+          "Designed for easy assembly with other laboratory glassware",
+          "Designed foe easy handling"
+        ],
+        "Do": [
+          "Do assemble the filtration setup properly",
+          "Do check the vacuum source",
+          "Confirm that all connections are securely attached to prevent leaks",
+          "Do use the appropriate filter paper",
+          "Keep an eye on the level of filtrate and adjust the vacuum pressure"
+        ],
+        "Avoid": [
+          "Don't over-pressurize the flask",
+          "Don't use a damaged flask",
+          "Don't neglect filtration conditions",
+          "Don't use damaged rubber stoppers",
+          "Don't ignore issues with the vacuum source",
+          "Don't force components together"
+        ],
+        "Cleaning": [
+          "Immediate Cleaning",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Conical flask",
+            "image": "https://i5.walmartimages.com/asr/880bf7d6-aca7-49a5-8b9d-080b1d673f59_1.c56c68936782c9834ffd25e7f314f033.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Standard flask",
+      "description": "A standard flask, also known as a volumetric flask, is a laboratory glassware with a flat bottom, a long neck, and a precise volumetric calibration mark, designed for accurate preparation and measurement of a specific volume of liquid.",
+      "image": "https://assets.fishersci.com/TFS-Assets/CCG/product-images/11516933_GRP_A.JPG-650.jpg",
+      "properties": {
+        "Material": "-70°C to 500°C",
+        "Capacity": "Glass",
+        "Safety": "4",
+        "Common Uses": [
+          "Volumetric Measurements",
+          "Dilutions",
+          "Standardization of Solutions",
+          "Reference Standards",
+          "Chemical Reactions",
+          "Titration Procedures"
+        ],
+        "Features": [
+          "flat bottom allows to stand securely on a laboratory bench",
+          "long neck facilitates precise pouring and minimizes the risk of spills",
+          "volumetric calibration mark on the neck allows accurate measurement",
+          "Designed with uniform wall thickness to ensure consistent accuracy"
+        ],
+        "Do": [
+          "Before use, ensure that the calibration mark on the flask is clear",
+          "Thoroughly clean the flask before use",
+          "Do verify the calibration periodically",
+          "Do inspect for damage",
+          "Do use an appropriate closure"
+        ],
+        "Avoid": [
+          "Don't excessively agitate",
+          "Don't Overfill",
+          "Avoid holding the neck of the flask",
+          "Don't ignore graduation marks",
+          "Don't use a damaged flask"
+        ],
+        "Cleaning": [
+          "Immediate Cleaning",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Conical flask",
+            "image": "https://heritagechemical.com/wp-content/uploads/2020/07/11191420661620487296.jpg"
+          },
+          {
+            "name": "Drechsel Bottle",
+            "image": "https://assets.fishersci.com/TFS-Assets/CCG/Duran/product-images/H_D_image_247130008_1.jpg-650.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tongs",
+      "description": "Tongs in a chemistry lab are gripping and holding tools with scissor-like handles, commonly made of metal, designed for safely handling hot glassware and other equipment during laboratory experiments.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/319EN0DSx9L._SX342_QL70_.jpg",
+      "properties": {
+        "Material": "500°C",
+        "Capacity": "Stainless steel",
+        "Safety": "1",
+        "Common Uses": [
+          "Handling Hot Glassware",
+          "Manipulating Crucibles",
+          "Securing Test Tube Holders",
+          "Transporting Hot Porcelain Ware",
+          "Chemical Reactions"
+        ],
+        "Features": [
+          "scissor-like design helps to squeeze together to grip objects.",
+          "insulated handles reduces heat transfer to hands",
+          "long handles to provide a safe distance between the user's hands and the hot object",
+          "Designed to resist chemical reactions"
+        ],
+        "Do": [
+          "Do ensure a proper grip",
+          "Do inspect for damage",
+          "Do use tongs for hot objects",
+          "Do keep a safe distance"
+        ],
+        "Avoid": [
+          "Avoid Direct Contact with Hot Objects",
+          "Don't Overload Tongs",
+          "Don't use tongs with sharp objects",
+          "Don't make sudden movements"
+        ],
+        "Cleaning": [
+          "Immediate Cleaning",
+          "Remove Residues",
+          "Wash with Mild Detergent",
+          "Soaking",
+          "Air Dry",
+          "Avoid Abrasive Cleaning",
+          "Rinse Thoroughly"
+        ],
+        "SimilarObjects": [
+          {
+            "name": "Burette Clamps",
+            "image": "https://th.bing.com/th/id/OIP.e6BXfM_hDRNR767ioHPsMwHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "name": "Spatula",
+            "image": "https://static.grainger.com/rp/s/is/image/Grainger/21TR11_AS01"
+          }
+        ]
+      }
+    }
+
+  ]
+}
